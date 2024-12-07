@@ -75,7 +75,7 @@
   getWeather();
   setInterval(() => {
     getWeather();
-  }, 3600000);
+  }, 3000000);
 
 
 
