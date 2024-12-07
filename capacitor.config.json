@@ -1,5 +1,12 @@
 {
   "appId": "com.yagmur",
   "appName": "yagmur",
-  "webDir": "dist"
+  "webDir": "dist",
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "splash",
+      "iconColor": "#488AFF",
+      "sound": "beep.wav"
+    }
+  }
 }
